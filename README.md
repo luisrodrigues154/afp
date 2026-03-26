@@ -23,9 +23,9 @@ Regardless of being made targetting dart assembly code, it can be used for anyth
 
 ```bash
 # clone repo
-git clone https://github.com/luisrodrigues154/frs
+git clone https://github.com/luisrodrigues154/afp
 
-cd frs
+cd afp
 
 # install npm packages
 npm install adm-zip @google/gemini-cli electron
